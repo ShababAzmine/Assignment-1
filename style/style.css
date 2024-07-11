@@ -11,6 +11,11 @@ margin: 20px 60px ;
     align-items: center;
     cursor: pointer;
 }
+.Contact{background-color: black;
+color: white;
+padding: 10px 10px;
+border-radius: 5px;
+cursor: pointer;}
 .images{background-image: url('../assets/Hero-bg.png');}
 .center{text-align: center;}
 .firstdiv{margin-left: 80px;
