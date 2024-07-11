@@ -26,9 +26,19 @@ height: 300px;
 display: flex;
 justify-content: space-between;
 }
-.Learn-More{border-radius: 0px;
+.Learn-More1{border-radius: 0px;
 padding: 8px 15px;
-cursor: pointer;}
+cursor: pointer;
+margin-top: 300px;}
+.Learn-More2{border-radius: 0px;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-top: 300px;}
+
+.Learn-More3{border-radius: 0px;
+        padding: 8px 15px;
+        cursor: pointer;
+        margin-top:300px;}
 .secdiv{margin-left: 80px;
 
     padding: 50px;
@@ -55,5 +65,9 @@ background-position: center;
     .Support{color: white;
     text-align: center;
 }
-    .button{text-align: center;
-    justify-content: space-between;}
+    .subbutton{text-align: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+.text1{display: flex;
+flex-direction: column;}
